@@ -1,3 +1,4 @@
-.body1 {
+html {
   background-image: url("food.jpg");
+  background-size: cover;
 }
