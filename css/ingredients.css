@@ -116,6 +116,9 @@ html {
   padding:10px 0;
   height:auto;
 }
+.p4 button{
+  font-size: 22px;SS
+}
 .p5{
   width:20%;
   padding:10px 0;
@@ -123,4 +126,15 @@ html {
 }
 .p5 button{
   font-size: 22px;
+}
+.adding{
+  background-color: RoyalBlue;
+  width:30%;
+  height:10%;
+  border: none;
+  border-radius: 10px;
+  color:white;
+  font-size: 20px;
+
+
 }
