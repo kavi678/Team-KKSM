@@ -4,6 +4,8 @@ html {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+  height: 100%;
+  width: auto;
 }
 .body1 {
   width:100%;
