@@ -1,4 +1,29 @@
 html {
   background-image: url("food.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
   background-size: cover;
+}
+.body1 {
+  width:100%;
+  padding: 10% 0;
+  margin: auto;
+  text-align: center;
+}
+.homebutton {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 5% 5%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  font-weight: bolder;
+  font-family: sans-serif;
+  margin: auto;
+  cursor: pointer;
+  border-radius: 20px;
+  opacity: 0.9;
 }
