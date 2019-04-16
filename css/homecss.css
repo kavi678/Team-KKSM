@@ -1,0 +1,38 @@
+html {
+  background-image: url("homefood.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100%;
+  width: auto;
+}
+.body1 {
+  width:100%;
+  padding: 10% 0;
+  margin: auto;
+  text-align: center;
+}
+.search-container {
+  margin-top: 30%;
+}
+.search-container button {
+ background: red;
+ font-size: 150%;;
+ border: none;
+ cursor: pointer;
+ padding: 3% 3%;
+ border-radius: 10px;
+ color: white;
+
+}
+.search-container input{
+  padding: 3% 1%;
+  border-radius: 10px;
+  font-size: 150%;
+  font-family: sans-serif;
+  width: 70%;
+  font-weight: bolder;
+}
+.search-container input:hover{
+  border: 1px solid #fff;
+}
