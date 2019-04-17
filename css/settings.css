@@ -73,7 +73,7 @@ html {
 }
 .h1h1{
   color: white;
-  font-size: 300%;
+  font-size: 60px;
   font-weight: bolder;
   background-color: red;
   text-align: center;
@@ -81,72 +81,6 @@ html {
   margin-left: 10%;
   padding: 0 1px;
 }
-.ingredients{
-  width: 95%;
-  height:12%;
-  background-color: #118C22;
-  margin: auto;
-  color: white;
-  font-size: 15px;
-}
-.ingredients p{
-  float: left;
-
-}
-.p1 {
-  width:20%;
-  padding:10px 0;
-  height:auto;
-
-
-}
-.p2{
-  width:20%;
-  padding:10px 0;
-  height:auto;
-
-}
-.p3{
-  width:20%;
-  padding:10px 0;
-  height:auto;
-}
-.p4{
-  width:20%;
-  padding:10px 0;
-  height:auto;
-}
-.p4 button{
-  font-size: 22px;SS
-}
-.p5{
-  width:20%;
-  padding:10px 0;
-  height:auto;
-}
-.p5 button{
-  font-size: 22px;
-}
-.adding{
-  background-color: RoyalBlue;
-  width:30%;
-  height:10%;
-  border: none;
-  border-radius: 10px;
-  color:white;
-  font-size: 20px;
-
-
-}
-.rbutton {
-  border-radius: 20%;
-  border: none;
-}
-.rimg{
-  border-radius: 20%;
-
-}
-
 .sticky {
   position: fixed;
   top: 0;
@@ -155,4 +89,14 @@ html {
 
 .sticky + .content {
   padding-top: 60px;
+}
+.setcon {
+  background-color: #118C22;
+  width:90%;
+  height:auto;
+  padding: 5% 0;
+  margin-left: 5%;
+  border-radius: 20%;
+  font-size: 32px;
+  color: white;
 }
